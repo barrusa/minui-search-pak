@@ -2,7 +2,7 @@
 
 An app for searching your ROM collection under the custom MinUI launcher.
 
-This is a fork of [tanbase/minui-search-pak](https://github.com/tanbase/minui-search-pak) (originally developed by laesetuc) that adds support for the Anbernic H700-based devices (`rg35xxplus` platform).
+This is a fork of [tanbase/minui-search-pak](https://github.com/tanbase/minui-search-pak) (originally developed by [laesetuc](https://github.com/laesetuc)) that adds support for the Anbernic H700-based devices (`rg35xxplus` platform).
 
 ## Requirements
 
@@ -45,14 +45,14 @@ When launching search again, the previous search results will be displayed.
 
 ## Acknowledgements & Third-Party Attribution
 
-- **Original Project**: [minui-search-pak](https://github.com/tanbase/minui-search-pak) by laesetuc (tanbase)
-- **MinUI Launcher**: [MinUI](https://github.com/shauninman/MinUI) by Shaun Inman
+- **Original Project**: [minui-search-pak](https://github.com/tanbase/minui-search-pak) by [laesetuc](https://github.com/laesetuc) ([tanbase](https://github.com/tanbase))
+- **MinUI Launcher**: [MinUI](https://github.com/shauninman/MinUI) by [Shaun Inman](https://github.com/shauninman)
 - **Platform Binaries**:
-  - The `rg35xxplus` binaries (`minui-keyboard`, `minui-list`, and `minui-presenter`) are sourced from the official releases of Jose Diaz-Gonzalez's repositories:
+  - The `rg35xxplus` binaries (`minui-keyboard`, `minui-list`, and `minui-presenter`) are sourced from the official releases of [Jose Diaz-Gonzalez](https://github.com/josegonzalez)'s repositories:
     - [minui-keyboard](https://github.com/josegonzalez/minui-keyboard) (v0.8.0)
     - [minui-list](https://github.com/josegonzalez/minui-list) (v0.14.0)
     - [minui-presenter](https://github.com/josegonzalez/minui-presenter) (v0.12.0)
-  - Also, thank you, Jose Diaz-Gonzalez, for your pak repositories, which this project is based on.
+  - Also, thank you, [Jose Diaz-Gonzalez](https://github.com/josegonzalez), for your pak repositories, which this project is based on.
 
 ## License
 
