@@ -28,16 +28,24 @@ This pak is designed for and tested with the following MinUI platforms and devic
 
 ## Usage
 
+1. Put the card into the TF1 slot of your Anbernic RG35XXSP.
+2. Power on the device.
+3. Navigate to **Tools** -> **Search**.
+4. Enter your search query using the virtual keyboard.
+
 ### Search
 
 Use the keyboard to enter a search term.  
-Press A to select a character, or B to erase a character.
-Press X to search, or Y to exit.
+
+- **A**: Select a character.
+- **B**: Erase a character.
+- **X**: Search.
+- **Y**: Exit.
 
 ### Search Results
 
-Matching search results will be displayed in a list.
-Select a game and press A to launch the game, or B to return to the Search screen.
+- Matching search results will be displayed in a list.
+- Select a game and press A to launch the game, or B to return to the Search screen.
 
 ### Previous Search
 
