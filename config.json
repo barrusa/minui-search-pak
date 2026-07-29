@@ -3,6 +3,7 @@
     "launch": "launch.sh",
     "description": "An app for searching your ROM collection",
     "platforms": [
-        "tg5040"
+        "tg5040",
+        "rg35xxplus"
     ]
 }
